@@ -1,5 +1,5 @@
 {
-  "name": "@prajjwaldubey1998/local-logger",
+  "name": "pd-local-logger",
   "version": "1.0.0",
   "description": "A simple reusable local file logger for Node.js applications.",
   "main": "index.js",
@@ -15,5 +15,8 @@
     "logging"
   ],
   "author": "Prajjwal Dubey",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }

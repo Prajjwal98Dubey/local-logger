@@ -13,7 +13,7 @@ A simple reusable Node.js logger that writes timestamped messages to a local fil
 ## Install
 
 ```bash
-npm i @prajjwaldubey1998/local-logger
+npm i pd-local-logger
 ```
 
 ## Usage
