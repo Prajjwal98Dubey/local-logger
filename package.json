@@ -1,0 +1,19 @@
+{
+  "name": "local-logger",
+  "version": "1.0.0",
+  "description": "A simple reusable local file logger for Node.js applications.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "src/**/*.js"
+  ],
+  "keywords": [
+    "logger",
+    "local",
+    "file-logger",
+    "nodejs",
+    "logging"
+  ],
+  "author": "",
+  "license": "MIT"
+}
